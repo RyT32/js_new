@@ -46,3 +46,12 @@ switch (parseInt(products)) {
         alert("Вы сьели что-то не то)" )
         break;
 }
+
+
+if (products === 1){
+    alert("Вы сьели " + (77 * mass) / 100 + ' калорий')
+} else if (products === 2){
+    alert("Вы сьели " + (20 * mass) / 100 + ' калорий')
+} else{
+    alert("Вы сьели что-то не то)" )
+}
