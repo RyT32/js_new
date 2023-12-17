@@ -91,13 +91,13 @@
 //     alert(i+ "." + text)
 // }
 
-let num = prompt("Введите число для обратного отсчета: ", 15);
-while (num > 0){
-    if (num % 5 == 0){
-        alert("Пиип")
-    } else{
-        alert(num);
-    }
-    num--;
-}
-alert("Таймер выключен!")
+// let num = prompt("Введите число для обратного отсчета: ", 15);
+// while (num > 0){
+//     if (num % 5 == 0){
+//         alert("Пиип")
+//     } else{
+//         alert(num);
+//     }
+//     num--;
+// }
+// alert("Таймер выключен!")
